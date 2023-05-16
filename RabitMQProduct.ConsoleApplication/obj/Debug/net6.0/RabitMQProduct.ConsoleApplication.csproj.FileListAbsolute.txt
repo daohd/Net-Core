@@ -1,0 +1,17 @@
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.exe
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.deps.json
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.runtimeconfig.json
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.pdb
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.AssemblyReference.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.AssemblyInfoInputs.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.AssemblyInfo.cs
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.CopyComplete
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\refint\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.pdb
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.genruntimeconfig.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\ref\RabitMQProduct.ConsoleApplication.dll
